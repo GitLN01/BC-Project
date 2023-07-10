@@ -1,0 +1,2 @@
+# BC Project
+ The goal is to facilitate the organization itself, as well as to provide users with the opportunity to view information, details of vehicles and their equipment. Such a system enables easier and faster access to information on a specific vehicle, model and manufacturer. The user has the ability to search and view information on all available vehicles and all accompanying equipment, while the administrator is responsible for entering, deleting and updating all necessary information.
